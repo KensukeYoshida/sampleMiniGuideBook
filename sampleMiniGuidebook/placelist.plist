@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ayala</key>
+	<dict>
+		<key>description</key>
+		<string>cebuの中心地</string>
+		<key>image</key>
+		<string>ayala.jpeg</string>
+		<key>latitude</key>
+		<string>10.3747</string>
+		<key>longitude</key>
+		<string>123.905759</string>
+	</dict>
+	<key>Mactan</key>
+	<dict>
+		<key>description</key>
+		<string>空港</string>
+		<key>image</key>
+		<string>mactan.jpeg</string>
+		<key>latitude</key>
+		<string>10.299046</string>
+		<key>longitude</key>
+		<string>123.963853</string>
+	</dict>
+	<key>モアルボアル</key>
+	<dict>
+		<key>description</key>
+		<string>ダイビングのメッカ</string>
+		<key>image</key>
+		<string>モアルボアル.jpeg</string>
+		<key>latitude</key>
+		<string>9.954012</string>
+		<key>longitude</key>
+		<string>123.377307</string>
+	</dict>
+	<key>エルニド</key>
+	<dict>
+		<key>description</key>
+		<string>最後の秘境</string>
+		<key>image</key>
+		<string>エルニド.jpeg</string>
+		<key>latitude</key>
+		<string>11.209709</string>
+		<key>longitude</key>
+		<string>119.462254</string>
+	</dict>
+</dict>
+</plist>
