@@ -21,7 +21,7 @@ class ViewController: UIViewController,UITableViewDelegate,
     
 
     
-     //選択された名前
+     //選択された名前(エリア名)
     var selectName = "" //!は整数が入っているの略　イコール　　var selectedIndex = -1
 
 
